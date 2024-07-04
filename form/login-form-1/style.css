@@ -1,0 +1,41 @@
+body {
+    background-color: #f5f4f1;
+}
+
+.container {
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    padding: 30px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    background-color: #fff;
+}
+
+.welcome-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.block {
+    display: block;
+    margin: 10px 30px;
+    padding: 10px;
+}
+
+.welcome-title {
+    text-align: center;
+    font-variant: small-caps;
+}
+
+.remember-me-block {
+    display: flex;
+    justify-content: end;
+    margin: 0 30px;
+    font-style: italic;
+}
+
+.button-enter {
+    background-color: #bc8e5c;
+    border: none;
+    color: #fff;
+}
