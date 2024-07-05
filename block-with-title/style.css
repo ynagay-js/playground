@@ -1,0 +1,39 @@
+.main-section {
+    width: 500px;
+    padding: 20px;
+    text-align: center;
+    color: #feea3b;
+    background-color: rgb(155, 96, 53);
+    font-family: Arial, sans-serif;
+}
+
+.section-title {
+    overflow: hidden;
+    font-weight: normal;
+}
+
+.section-title::before,
+.section-title::after {
+    display: inline-block;
+    position: relative;
+    content: "";
+    width: 50%;
+    margin: 10px;
+    border-top: 1px solid #feea3b;
+
+}
+
+.section-title::before {
+    right: 10px;
+    margin-left: -50%;
+}
+
+.section-title::after {
+    left: 10px;
+    margin-right: -50%;
+}
+
+.paragraph {
+    color: #fff;
+    text-align: left;
+}
