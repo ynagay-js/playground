@@ -1,0 +1,18 @@
+.cards {
+    position: absolute;
+    left: 50%;
+    top: 50px;
+    transform-origin: 50% 100%;
+}
+
+.cards:hover {
+    z-index: 2;
+}
+
+.heart-3 {
+    rotate: z -15deg;
+}
+
+.spade-ace {
+    rotate: z 15deg;
+}
