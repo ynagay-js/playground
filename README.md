@@ -15,5 +15,9 @@ Some test code, snippets etc..
 ![](https://github.com/ynagay-js/playground/assets/172784588/5b5eea0f-e93b-4835-a675-b73479a049a5)
 
 + blank-rectangle
+  
+![](https://github.com/user-attachments/assets/8fb5e3b4-a342-430c-b9eb-eedbb067688b)  
 
 + cards-deck
+
+![](https://github.com/user-attachments/assets/375e2186-5943-45f0-ba7d-93cf74c57035)
