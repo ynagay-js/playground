@@ -32,4 +32,8 @@ Some test code, snippets etc..
 
 + sticky-nav
 
+  ![](https://github.com/user-attachments/assets/7b3d0a7f-a66a-44f4-9be1-6fc209a4dca9)
+
 + sticky-social-media-buttons
+
+  ![](https://github.com/user-attachments/assets/f089da1a-92a9-43ae-9049-498714899e07)
