@@ -1,0 +1,35 @@
+img {
+    display: block;    
+    border: 2px solid rgb(195, 195, 195);
+    padding: 4px;
+    background: rgb(239, 237, 237);
+}
+
+.cocktail {
+    position: relative;
+    display: inline-block;
+    padding: 10px;
+    margin: 0;
+    overflow: hidden;
+}
+
+.cocktail::before,
+.cocktail::after {
+    content: "";
+    position: absolute;
+    transform: rotate(45deg);
+    bottom: -40px;
+    left: -40px;
+    width: 70px;
+    height: 70px;        
+    box-shadow: 0 0 5px rgb(113, 111, 111);
+    background: white;
+    outline: 1px dashed gray;
+    outline-offset: -3px;
+}
+
+.cocktail::after { 
+    top: -40px;
+    right: -40px;
+    left: auto;
+}
