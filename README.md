@@ -22,6 +22,6 @@ Some test code, snippets etc..
 
 ![](https://github.com/user-attachments/assets/375e2186-5943-45f0-ba7d-93cf74c57035)
 
-+cocktail-menu
++ cocktail-menu
 
 ![](https://github.com/user-attachments/assets/9bbb95d3-5b56-4426-a6f3-10abad33cc79)
