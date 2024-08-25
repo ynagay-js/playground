@@ -1,0 +1,14 @@
+.nav-link {
+    color: #1b4268;
+
+}
+
+.navigation-list {
+    position: fixed;
+    top: 100px;
+    right: 10px;
+    list-style: none;
+    margin: 0;
+    padding: 10px 80px 10px 10px;
+    background: #edf6ff;
+}
