@@ -1,0 +1,22 @@
+body {
+    min-height: 5000px;
+    margin: 0;
+}
+
+.header{
+    position: sticky;
+    top: 0;
+}
+
+.nav-list {
+    display: flex;
+    list-style: none;
+    background: rgb(164, 28, 144);
+    padding: 10px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+}
