@@ -1,0 +1,41 @@
+* {
+    font-family: Oswald, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.section-font-weight {    
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+
+.h4-heading {
+    padding-right: 5px;
+}
+
+.weight {
+    padding: 2px 10px;
+    background: #F9E3B2;
+    border: 1px solid #fff;
+}
+
+.weight-light {
+    font-weight: 300;
+}
+
+.weight-regular {
+    font-weight: 400;
+}
+
+.weight-medium {
+    font-weight: 500;
+}
+
+.weight-semi-bold {
+    font-weight: 600;
+}
+
+.weight-bold {
+    font-weight: 700;
+}
