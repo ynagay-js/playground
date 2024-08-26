@@ -37,3 +37,14 @@ Some test code, snippets etc..
 + sticky-social-media-buttons
 
   ![](https://github.com/user-attachments/assets/f089da1a-92a9-43ae-9049-498714899e07)
+
++ padding
+  
+![](https://github.com/user-attachments/assets/c3383f52-ccef-4eff-8393-418730f2bedb)
+
++ border
+
+![](https://github.com/user-attachments/assets/5c5d20a1-59f3-4219-a5cc-66fec0235f83)
+
+
+
