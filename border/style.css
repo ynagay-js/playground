@@ -1,0 +1,19 @@
+.main-text {   
+    padding: 40px;
+    background: #B2D235;
+    outline: 2px solid #fff;
+    outline-offset: -20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;    
+    background: #B6DEC2;
+}
+
+th,
+td {
+    padding: 5px;
+    border: 2px solid #fff;
+}
+
