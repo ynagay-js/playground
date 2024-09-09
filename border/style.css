@@ -1,4 +1,4 @@
-.main-text {   
+.main-text {
     padding: 40px;
     background: #B2D235;
     outline: 2px solid #fff;
@@ -7,7 +7,7 @@
 
 table {
     width: 100%;
-    border-collapse: collapse;    
+    border-collapse: collapse;
     background: #B6DEC2;
 }
 
@@ -17,3 +17,35 @@ td {
     border: 2px solid #fff;
 }
 
+.frame-samples {
+    padding: 10px;
+}
+
+.frame {
+    background: #86328C;
+    padding: 10px;
+    margin: 10px;
+    color: #fff;
+}
+
+/* Первый способ double */
+.frame-1 {
+    border: 6px double #fff;
+}
+
+/* Второй способ outline*/
+.frame-2 {
+    outline: 2px solid #fff;
+    outline-offset: -4px;
+}
+
+/* Третий способ div>div*/
+.frame-3 {
+    margin: 0;
+    padding: 2px;
+}
+
+.frame-3-1 {
+    border: 2px solid #fff;
+    padding: 10px;
+}
